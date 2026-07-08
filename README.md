@@ -13,7 +13,6 @@ SafeLink provides residents with a platform to raise alarm and share intelligenc
 SafeLink is built for community-safety contexts in **Nigeria** with similar applicability to the **UK**, and designed to align with a very new State Policing reform act of June 2026 (Nigeria State Police Bill, 2026].
 
 
-
 ## Key features
 
 * **Config-driven multi-jurisdiction core** — the same platform applicable to different cities from different configuration.
