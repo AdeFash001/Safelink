@@ -43,11 +43,13 @@ Single configuration source
 
 ## Screenshots
 
-<! See screenshots below-->
-
 ![Dashboard](docs/screens/dashboard.png)
+
 ![Alert flow](docs/screens/alert-flow.png)
-![Alert flow](docs/screens/config.png)
+
+![Config](docs/screens/config.png)
+
+
 ## Getting started
 
 ```bash
