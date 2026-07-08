@@ -35,10 +35,10 @@ Single configuration source
 
 ## Tech stack
 
-* **Frontend:** \[Next.js / React]
-* **Backend:** \[Node.js / TypeScript]
-* **Data:** \[Supabase / PostgreSQL]
-* **Integrations:** \[NIMC/NIN verification, SMS/USSD, mapping]
+* **Frontend:** [Next.js / React]
+* **Backend:** [Node.js / TypeScript]
+* **Data:** [Supabase / PostgreSQL]
+* **Integrations:** [NIMC/NIN verification, SMS/USSD, mapping]
 
 ## Screenshots
 
